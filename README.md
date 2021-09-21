@@ -12,3 +12,5 @@ A Garry's Mod Addon
 [TTT's Admin Commands](https://github.com/Facepunch/garrysmod/blob/master/garrysmod/gamemodes/terrortown/gamemode/admin.lua)
 
 [Workshop Creation](https://wiki.facepunch.com/gmod/Workshop_Addon_Creation)
+
+[Workshop Updating](https://wiki.facepunch.com/gmod/Workshop_Addon_Updating)
