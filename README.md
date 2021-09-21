@@ -14,3 +14,5 @@ A Garry's Mod Addon
 [Workshop Creation](https://wiki.facepunch.com/gmod/Workshop_Addon_Creation)
 
 [Workshop Updating](https://wiki.facepunch.com/gmod/Workshop_Addon_Updating)
+
+[How to make a Weapon](https://steamcommunity.com/sharedfiles/filedetails/?id=628930449)
