@@ -1,0 +1,11 @@
+{
+	"title"		:	"One Party",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "fun", "comic" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
