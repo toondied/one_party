@@ -16,3 +16,5 @@ A Garry's Mod Addon
 [Sandbox Commands](https://github.com/Facepunch/garrysmod/blob/master/garrysmod/gamemodes/sandbox/gamemode/commands.lua)
 
 [TTT Commands](https://github.com/Facepunch/garrysmod/blob/master/garrysmod/gamemodes/terrortown/gamemode/admin.lua)
+
+[Weapon Model List](https://maurits.tv/data/garrysmod/wiki/wiki.garrysmod.com/index9a1c.html)
